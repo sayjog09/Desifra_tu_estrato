@@ -1,0 +1,192 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\55ebcdcd53f8797d6c8213e03fbb0003\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\b680989ca1b260c9dc64ea9e43512cd3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\3fc529fa2f8313262e599fbafe0c82b3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\d3fdaae0cfd4569b0e959662ac7a007f\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\8fb4c5fdbb0c8e1ea4e9dd1c7e5c8a5d\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\9b139b4ff6dd90de66cd25d2e045c567\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\35b1ee8f595d9c4edd140968fd1317fb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\b879829df9ebef264e66f1a73ccc1835\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\ebd0c88136dbe0d9725340a016345395\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\9e27a98fe7e771422dac21b66316d4ec\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\6f1dcb5b96442cb14460e599f18b1f64\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\fa15c2a909c1b135fb7f325777d17f3a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\fc7bfe0f8edf2d39696737c8960a031d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\f71fd1f882037d3ac1de8e70f3651f98\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\7dc4f7e9fdf7b8ffee72992a9cf7befa\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\2e92ff7fbb9bddbb1cca690c9ee943b6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\04b1276703017354c2cd9c0ef9f5e9b1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\9a6f3b5eaf1e9f444d391e37fb0a5560\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\b022c559375b5bacf929685e3960dc47\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\317dc6829d92523550ea438973706c6c\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\d3143e46ffdf3feeb99f18e4a0511336\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\1388b463050e87f786a4874c90d529f1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\7cc31312f96031ed4399c182b8f554b8\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\86a00ee33df26025603a0e7f89c022bb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\46b0aaf5e441ac1814753cf243e39920\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\f2c0fa0404a635106adfb7320faffd5a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\1b96b285b32724ef376d75a250ab9cf5\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml:5:5-28:19
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\55ebcdcd53f8797d6c8213e03fbb0003\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\55ebcdcd53f8797d6c8213e03fbb0003\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\3fc529fa2f8313262e599fbafe0c82b3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\3fc529fa2f8313262e599fbafe0c82b3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\04b1276703017354c2cd9c0ef9f5e9b1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\04b1276703017354c2cd9c0ef9f5e9b1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\317dc6829d92523550ea438973706c6c\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\317dc6829d92523550ea438973706c6c\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\04b1276703017354c2cd9c0ef9f5e9b1\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.desifra_tu_estrato.Main10Activity
+ADDED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml:12:9-61
+	android:name
+		ADDED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml:12:19-49
+activity#com.example.desifra_tu_estrato.Main9Activity
+ADDED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml:13:9-51
+	android:name
+		ADDED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml:13:19-48
+activity#com.example.desifra_tu_estrato.Main8Activity
+ADDED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml:14:9-51
+	android:name
+		ADDED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml:14:19-48
+activity#com.example.desifra_tu_estrato.Main7Activity
+ADDED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml:15:9-51
+	android:name
+		ADDED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml:15:19-48
+activity#com.example.desifra_tu_estrato.Main6Activity
+ADDED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml:16:9-51
+	android:name
+		ADDED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml:16:19-48
+activity#com.example.desifra_tu_estrato.Main5Activity
+ADDED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml:17:9-51
+	android:name
+		ADDED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml:17:19-48
+activity#com.example.desifra_tu_estrato.Main4Activity
+ADDED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml:18:9-51
+	android:name
+		ADDED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml:18:19-48
+activity#com.example.desifra_tu_estrato.Main3Activity
+ADDED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml:19:9-51
+	android:name
+		ADDED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml:19:19-48
+activity#com.example.desifra_tu_estrato.Main2Activity
+ADDED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml:20:9-51
+	android:name
+		ADDED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml:20:19-48
+activity#com.example.desifra_tu_estrato.MainActivity
+ADDED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml:21:9-27:20
+	android:name
+		ADDED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml:21:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml:25:27-74
+uses-sdk
+INJECTED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\55ebcdcd53f8797d6c8213e03fbb0003\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\55ebcdcd53f8797d6c8213e03fbb0003\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\b680989ca1b260c9dc64ea9e43512cd3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\b680989ca1b260c9dc64ea9e43512cd3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\3fc529fa2f8313262e599fbafe0c82b3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\3fc529fa2f8313262e599fbafe0c82b3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\d3fdaae0cfd4569b0e959662ac7a007f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\d3fdaae0cfd4569b0e959662ac7a007f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\8fb4c5fdbb0c8e1ea4e9dd1c7e5c8a5d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\8fb4c5fdbb0c8e1ea4e9dd1c7e5c8a5d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\9b139b4ff6dd90de66cd25d2e045c567\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\9b139b4ff6dd90de66cd25d2e045c567\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\35b1ee8f595d9c4edd140968fd1317fb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\35b1ee8f595d9c4edd140968fd1317fb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\b879829df9ebef264e66f1a73ccc1835\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\b879829df9ebef264e66f1a73ccc1835\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\ebd0c88136dbe0d9725340a016345395\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\ebd0c88136dbe0d9725340a016345395\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\9e27a98fe7e771422dac21b66316d4ec\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\9e27a98fe7e771422dac21b66316d4ec\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\6f1dcb5b96442cb14460e599f18b1f64\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\6f1dcb5b96442cb14460e599f18b1f64\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\fa15c2a909c1b135fb7f325777d17f3a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\fa15c2a909c1b135fb7f325777d17f3a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\fc7bfe0f8edf2d39696737c8960a031d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\fc7bfe0f8edf2d39696737c8960a031d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\f71fd1f882037d3ac1de8e70f3651f98\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\f71fd1f882037d3ac1de8e70f3651f98\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\7dc4f7e9fdf7b8ffee72992a9cf7befa\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\7dc4f7e9fdf7b8ffee72992a9cf7befa\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\2e92ff7fbb9bddbb1cca690c9ee943b6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\2e92ff7fbb9bddbb1cca690c9ee943b6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\04b1276703017354c2cd9c0ef9f5e9b1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\04b1276703017354c2cd9c0ef9f5e9b1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\9a6f3b5eaf1e9f444d391e37fb0a5560\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\9a6f3b5eaf1e9f444d391e37fb0a5560\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\b022c559375b5bacf929685e3960dc47\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\b022c559375b5bacf929685e3960dc47\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\317dc6829d92523550ea438973706c6c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\317dc6829d92523550ea438973706c6c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\d3143e46ffdf3feeb99f18e4a0511336\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\d3143e46ffdf3feeb99f18e4a0511336\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\1388b463050e87f786a4874c90d529f1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\1388b463050e87f786a4874c90d529f1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\7cc31312f96031ed4399c182b8f554b8\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\7cc31312f96031ed4399c182b8f554b8\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\86a00ee33df26025603a0e7f89c022bb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\86a00ee33df26025603a0e7f89c022bb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\46b0aaf5e441ac1814753cf243e39920\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\46b0aaf5e441ac1814753cf243e39920\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\f2c0fa0404a635106adfb7320faffd5a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\f2c0fa0404a635106adfb7320faffd5a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\1b96b285b32724ef376d75a250ab9cf5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\sayjog\.gradle\caches\transforms-2\files-2.1\1b96b285b32724ef376d75a250ab9cf5\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sayjog\Desktop\Desifra_tu_estrato\app\src\main\AndroidManifest.xml
